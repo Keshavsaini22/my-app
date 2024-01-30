@@ -1,0 +1,7 @@
+.hero-container{
+    display: flex;
+    gap: 47px;
+    margin-top: 32px;
+    margin-right: 72px;
+    max-height: 500p;
+}
